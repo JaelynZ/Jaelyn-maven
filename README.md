@@ -1,2 +1,2 @@
-# Jaelyn-maven
-Jaelyn远程仓库
+# jaelyn-maven
+jaelyn远程仓库
