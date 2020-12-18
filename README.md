@@ -1,2 +1,2 @@
-# maven-repository
-jaelyn的远程仓库
+# alliance-maven-repository
+alliance-maven的远程仓库
