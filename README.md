@@ -1,2 +1,2 @@
-# jaelyn-maven
-jaelyn远程仓库
+# maven-repository
+jaelyn的远程仓库
